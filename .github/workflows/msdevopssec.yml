@@ -1,5 +1,5 @@
 ymlCopy
-name: MSDO
+- name: MSDO
 on:
   push:
     branches:
